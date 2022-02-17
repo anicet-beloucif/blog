@@ -1,0 +1,21 @@
+html{ color: black;}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://i.pinimg.com/originals/62/e8/8b/62e88b43ad198ba43daab9cb7743b8f0.jpg');
+}
+
+main{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 80vh;
+    font-family: Montserrat;
+}
+
+.txtOm{
+    width: 25%;
+    text-align: center;
+}
